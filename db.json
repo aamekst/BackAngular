@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso de Angular",
+      "dataValidade": "2021-12-31",
+      "precoProduto": 50
+    },
+    {
+      "nome": "Curso de MySql",
+      "dataValidade": "2023-03-15",
+      "precoProduto": 80,
+      "id": 2
+    },
+    {
+      "nome": "Curso de design gráfico",
+      "dataValidade": "2022-11-24",
+      "precoProduto": 35,
+      "id": 3
+    },
+    {
+      "nome": "Curso PHP",
+      "dataValidade": "2022-06-23",
+      "precoProduto": 78,
+      "id": 4
+    }
+  ]
+}
